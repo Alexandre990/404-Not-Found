@@ -12,7 +12,7 @@ Projeto desenvolvido pela devchallenges para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  <img alt="Logo" src="./assets/logo.svg">
+  <img alt="Logo" src="./assets/logo.png">
 </p>
 
 <br>
